@@ -1,5 +1,6 @@
-# KTH Courses
-This is a cover Repo for programming courses at KTH with codebases. Due to some of the projects being in use for current students, you can instead contact me for access to the repositories. 02aleliu@gmail.com
+# KTH Programming Courses
+A cover repository for programming course projects completed at KTH Royal Institute of Technology.
+Note: Due to some projects being actively used in current courses, repositories are kept private to maintain academic integrity. If you'd like access, feel free to reach out at 02aleliu@gmail.com.
 
 
 ## Foundational
